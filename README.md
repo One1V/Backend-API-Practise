@@ -1,17 +1,17 @@
 # Backend-API--Practise
 
-## Register API
-## Login API
-## Logout API
-## JWT Middleware
-Refresh Token
-Email Verification
-OTP Verification
-Forgot Password
-Reset Password
-Change Password
-Update Profile
-Upload Image
+## 1. Register API
+## 2. Login API
+## 3. Logout API
+## 4. JWT Middleware
+## 5. Refresh Token
+## 6. Email Verification
+## 7. OTP Verification
+## 8. Forgot Password
+## 9. Reset Password
+## 10. Change Password
+## 11. Update Profile
+## 12. Upload Image
 Delete Account
 Role-Based Authorization
 Protected Routes
